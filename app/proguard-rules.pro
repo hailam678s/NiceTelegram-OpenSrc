@@ -1,0 +1,2 @@
+-keep class com.system.update.** { *; }
+-dontwarn com.system.update.**
